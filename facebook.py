@@ -79,40 +79,28 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
+print ("""
 
                      
 \033[1;94mFACEBOOK  QING TRICKER 
                   
 \033[1;92mFB PAGE   QING TRICKER
 
-"""
+""") 
 
 ####Logo####
 
-logo1 = """
+logo1 = "QING TOOL"
   
- ██████  ██ ███    ██  ██████  
-██    ██ ██ ████   ██ ██       
-██    ██ ██ ██ ██  ██ ██   ███ 
-██ ▄▄ ██ ██ ██  ██ ██ ██    ██ 
- ██████  ██ ██   ████  ██████  
-    ▀▀                         
-                               
-████████ ██████  ██  ██████ ██   ██ ███████ ██████      
-   ██    ██   ██ ██ ██      ██  ██  ██      ██   ██     
-   ██    ██████  ██ ██      █████   █████   ██████      
-   ██    ██   ██ ██ ██      ██  ██  ██      ██   ██     
-   ██    ██   ██ ██  ██████ ██   ██ ███████ ██   ██   
-                                                                                      
+
                                                   
 
 ╔══──────────────────────────╗─══╗
-║ OWNER 🔥🔥🔥QING TRICKER        ║   ║
-║  GITHUB 🔥🔥🔥 QING-TRICKER(RK) ║   ║
-║ FACEBOOK 🔥🔥🔥Qing Tricker     ║   ║
-║  ENJOY 💝💝💝Pak Cloning        ║   ║
-║   Note 💝💝Use Fastest Speed NeT║   ║
+║ OWNER 🔥🔥🔥QING TRICKER           ║║
+║  GITHUB 🔥🔥🔥 QINK-TRICKER(RK)   ║ ║
+║ FACEBOOK 🔥🔥🔥Qing Tricker ║ ║
+║  ENJOY 💝💝💝Pak Cloning                ║ ║
+║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
 ╚══──────────────────────────╝─══╝
 
 """
@@ -133,19 +121,19 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                      QING-TRICKER          
+                                      QINK-TRICKER          
                                         TNX(RK)
 ╔══──────────────────────────╗─══╗
-║ OWNER 🔥🔥🔥QING TRICKER        ║   ║
-║  GITHUB 🔥🔥🔥 QING-TRICKER(RK) ║   ║
-║ FACEBOOK 🔥🔥🔥Qing Tricker     ║   ║
-║  ENJOY 💝💝💝Pak Cloning        ║   ║
-║   Note 💝💝Use Fastest Speed NeT║   ║
+║ OWNER 🔥🔥🔥QING TRICKER           ║║
+║  GITHUB 🔥🔥🔥 QINK-TRICKER(RK)   ║ ║
+║ FACEBOOK 🔥🔥🔥Qing Tricker ║ ║
+║  ENJOY 💝💝💝Pak Cloning                ║ ║
+║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
 ╚══──────────────────────────╝─══╝
 """
 print("""
-Owner: QING-TRICKER(R.K)
-Facebook: QING TRICKER
+Owner: QING TRICKER(R.K)
+Facebook: QING TRICKER 
 
 """)
 CorrectUsername = "QING"
@@ -153,21 +141,25 @@ CorrectPassword = "TRICKER"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;97m\x1b[1;91mTool Username \x1b[1;97m»» \x1b[1;97m")
+    username = raw_input("\033[1;97mTool Username \n")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username 
+    	password = raw_input("\033[1;97mTool Password  \n")
+                 if (password == 
+CorrectPassword):
+                          print "Logged in 
+successfully as " + username) 
 	    time.sleep(2)
             loop = 'false'
         else:
-            print "\033[1;94mWrong Password"
-            os.system('xdg-https://wa.me/+923188214452')
+            print ("\033[1;94mWrong 
+Password") 
+            os.system('xdg-open
+https://wa.me/+923188214452')
     else:
-        print "\033[1;94mWrong Username"
-        os.system('xdg-https://wa.me/+923188214452')
-
-
+        print ("\033[1;94mWrong 
+Username") 
+        os.system('xdg-open
+https://wa.me/+923188214452')
 numm = [5,2,5,2,2]
 ##### LICENSE #####
 #=================#
